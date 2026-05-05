@@ -1,0 +1,1109 @@
+[
+    {
+        "utente": "Angelo Andrade",
+        "numero": 833703359,
+        "medicamentos": [
+            "Tetraciclinas",
+            "Metotrexato"
+        ],
+        "risco": 2,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Angelo Amorim",
+        "numero": 194990675,
+        "medicamentos": [
+            "Cefaloridina (Ceporan)",
+            "Colestiramina",
+            "Simpaticomiméticos (A. Indirecta)",
+            "Corticosteróides"
+        ],
+        "risco": 23,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Angelo Correia",
+        "numero": 245466921,
+        "medicamentos": [
+            "Ácido Mefenâmico",
+            "iMAOs",
+            "Sulfonilinas (Clorpropamida)",
+            "Cloranfenicol"
+        ],
+        "risco": 23,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Angelo Moniz",
+        "numero": 795116229,
+        "medicamentos": [
+            "Ácido Acetilsalicílico",
+            "Biguanidas (Fenformina)"
+        ],
+        "risco": 5,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Angelo Cardoso",
+        "numero": 908517407,
+        "medicamentos": [
+            "Sulfonilinas (Clorpropamida)",
+            "Antidepressivos Tricíclicos",
+            "Antibióticos (Largo Espectro)",
+            "Dicloralfenazona"
+        ],
+        "risco": 17,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Angelo Pacheco",
+        "numero": 282893953,
+        "medicamentos": [
+            "Colestiramina",
+            "Anfetaminas",
+            "Antibióticos (Largo Espectro)"
+        ],
+        "risco": 10,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Angelo Medeiros",
+        "numero": 967814462,
+        "medicamentos": [
+            "Contraceptivos Orais",
+            "Griseofulvina",
+            "Analgésicos Narcóticos",
+            "Isoniazida"
+        ],
+        "risco": 16,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Angelo Silva",
+        "numero": 672325165,
+        "medicamentos": [
+            "Cefaloridina (Ceporan)",
+            "Insulinas",
+            "Levodopa"
+        ],
+        "risco": 9,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Angelo Pereira",
+        "numero": 810579448,
+        "medicamentos": [
+            "Fenitoína",
+            "Rifampicina"
+        ],
+        "risco": 0,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Angelo Azevedo",
+        "numero": 499712239,
+        "medicamentos": [
+            "Sulfimpirazona",
+            "Antiácidos",
+            "Glutetimida",
+            "Simpaticomiméticos (A. Directa)"
+        ],
+        "risco": 18,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Alexandre Andrade",
+        "numero": 713154294,
+        "medicamentos": [
+            "Sulfonamidas",
+            "Metronidazol",
+            "Cloranfenicol"
+        ],
+        "risco": 8,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Alexandre Amorim",
+        "numero": 391796143,
+        "medicamentos": [
+            "Ácido Mefenâmico",
+            "Fenfluramina",
+            "Fenotiazinas (Clorpromazina)",
+            "Carbamazepina"
+        ],
+        "risco": 17,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Alexandre Correia",
+        "numero": 349714528,
+        "medicamentos": [
+            "Insulinas",
+            "Colestiramina"
+        ],
+        "risco": 3,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Alexandre Moniz",
+        "numero": 654343332,
+        "medicamentos": [
+            "Rifampicina",
+            "Antibióticos (Largo Espectro)",
+            "Anti-histamínicos"
+        ],
+        "risco": 6,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Alexandre Cardoso",
+        "numero": 669892689,
+        "medicamentos": [
+            "iMAOs",
+            "Digoxina"
+        ],
+        "risco": 0,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Alexandre Pacheco",
+        "numero": 332439088,
+        "medicamentos": [
+            "Furosemida",
+            "Fenilbutazona",
+            "Sulfimpirazona"
+        ],
+        "risco": 2,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Alexandre Medeiros",
+        "numero": 797687068,
+        "medicamentos": [
+            "Simpaticomiméticos (A. Directa)",
+            "Piridoxina",
+            "Isoniazida"
+        ],
+        "risco": 6,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Alexandre Silva",
+        "numero": 848248755,
+        "medicamentos": [
+            "Griseofulvina",
+            "Haloperidol",
+            "Insulinas",
+            "Contraceptivos Orais"
+        ],
+        "risco": 19,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Alexandre Pereira",
+        "numero": 759857909,
+        "medicamentos": [
+            "iMAOs",
+            "Antidepressivos Tricíclicos",
+            "Guanetidina",
+            "Metotrexato"
+        ],
+        "risco": 22,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Alexandre Azevedo",
+        "numero": 894698176,
+        "medicamentos": [
+            "Griseofulvina",
+            "Dicloralfenazona"
+        ],
+        "risco": 4,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Francisco Andrade",
+        "numero": 138225226,
+        "medicamentos": [
+            "Levodopa",
+            "Furosemida"
+        ],
+        "risco": 3,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Francisco Amorim",
+        "numero": 856511935,
+        "medicamentos": [
+            "Ácido Acetilsalicílico",
+            "Rifampicina"
+        ],
+        "risco": 5,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Francisco Correia",
+        "numero": 907276129,
+        "medicamentos": [
+            "Tiazidas",
+            "Digoxina",
+            "Hidrato de Cloral"
+        ],
+        "risco": 6,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Francisco Moniz",
+        "numero": 317221328,
+        "medicamentos": [
+            "Anti-histamínicos",
+            "Benzodiazepinas (Diazepam)"
+        ],
+        "risco": 2,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Francisco Cardoso",
+        "numero": 513908015,
+        "medicamentos": [
+            "Fenfluramina",
+            "Fenitoína",
+            "Anticolinérgicos",
+            "Meprobamato"
+        ],
+        "risco": 20,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Francisco Pacheco",
+        "numero": 110047940,
+        "medicamentos": [
+            "Antidepressivos Tricíclicos",
+            "Ácido Ectacrínico",
+            "Analgésicos Narcóticos",
+            "Bloqueadores adrenérgicos beta"
+        ],
+        "risco": 11,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Francisco Medeiros",
+        "numero": 661506779,
+        "medicamentos": [
+            "Clofibrato",
+            "iMAOs",
+            "Rifampicina",
+            "Haloperidol"
+        ],
+        "risco": 21,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Francisco Silva",
+        "numero": 567390384,
+        "medicamentos": [
+            "Quinidina",
+            "Bloqueantes Neuromusculares"
+        ],
+        "risco": 4,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Francisco Pereira",
+        "numero": 721209089,
+        "medicamentos": [
+            "Hidrato de Cloral",
+            "Esteróides Anabólicos"
+        ],
+        "risco": 5,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Francisco Azevedo",
+        "numero": 786649633,
+        "medicamentos": [
+            "Levodopa",
+            "Dicloralfenazona",
+            "Simpaticomiméticos (A. Indirecta)"
+        ],
+        "risco": 9,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Henrique Andrade",
+        "numero": 892085284,
+        "medicamentos": [
+            "Anfetaminas",
+            "Corticosteróides",
+            "Cloranfenicol"
+        ],
+        "risco": 13,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Henrique Amorim",
+        "numero": 800004525,
+        "medicamentos": [
+            "Meprobamato",
+            "Anti-histamínicos"
+        ],
+        "risco": 1,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Henrique Correia",
+        "numero": 754423516,
+        "medicamentos": [
+            "Esteróides Anabólicos",
+            "Sulfonilinas (Clorpropamida)",
+            "Cefaloridina (Ceporan)",
+            "Anticoagulantes Orais"
+        ],
+        "risco": 9,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Henrique Moniz",
+        "numero": 391017254,
+        "medicamentos": [
+            "Guanetidina",
+            "Hidrato de Cloral",
+            "Haloperidol",
+            "Sulfonilinas (Clorpropamida)"
+        ],
+        "risco": 10,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Henrique Cardoso",
+        "numero": 139442525,
+        "medicamentos": [
+            "Anticolinérgicos",
+            "Cefaloridina (Ceporan)",
+            "Simpaticomiméticos (A. Indirecta)"
+        ],
+        "risco": 8,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Henrique Pacheco",
+        "numero": 421337617,
+        "medicamentos": [
+            "Clofibrato",
+            "Indometacina"
+        ],
+        "risco": 2,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Henrique Medeiros",
+        "numero": 348255040,
+        "medicamentos": [
+            "Digoxina",
+            "Anticolinérgicos",
+            "Meprobamato"
+        ],
+        "risco": 7,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Henrique Silva",
+        "numero": 204897479,
+        "medicamentos": [
+            "Antidepressivos Tricíclicos",
+            "Barbitúricos",
+            "Anticoagulantes Orais"
+        ],
+        "risco": 9,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Henrique Pereira",
+        "numero": 173942861,
+        "medicamentos": [
+            "Isoniazida",
+            "Guanetidina",
+            "Dicloralfenazona",
+            "Barbitúricos"
+        ],
+        "risco": 24,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Henrique Azevedo",
+        "numero": 822872232,
+        "medicamentos": [
+            "Antiácidos",
+            "Ácido Ectacrínico",
+            "Tetraciclinas",
+            "Esteróides Anabólicos"
+        ],
+        "risco": 16,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Tiago Andrade",
+        "numero": 379166145,
+        "medicamentos": [
+            "Fenitoína",
+            "Dicloralfenazona"
+        ],
+        "risco": 4,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Tiago Amorim",
+        "numero": 537734318,
+        "medicamentos": [
+            "Guanetidina",
+            "Tiazidas",
+            "Rifampicina",
+            "Digoxina"
+        ],
+        "risco": 21,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Tiago Correia",
+        "numero": 257937536,
+        "medicamentos": [
+            "Tetraciclinas",
+            "Benzodiazepinas (Diazepam)"
+        ],
+        "risco": 3,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Tiago Moniz",
+        "numero": 708612775,
+        "medicamentos": [
+            "Piridoxina",
+            "Naproxeno"
+        ],
+        "risco": 1,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Tiago Cardoso",
+        "numero": 361711911,
+        "medicamentos": [
+            "Digoxina",
+            "Haloperidol",
+            "Furosemida",
+            "Cefaloridina (Ceporan)"
+        ],
+        "risco": 20,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Tiago Pacheco",
+        "numero": 961207488,
+        "medicamentos": [
+            "Antiácidos",
+            "Clofibrato",
+            "iMAOs",
+            "Colestiramina"
+        ],
+        "risco": 17,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Tiago Medeiros",
+        "numero": 231222907,
+        "medicamentos": [
+            "Tetraciclinas",
+            "Colestiramina",
+            "Clofibrato"
+        ],
+        "risco": 13,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Tiago Silva",
+        "numero": 408018248,
+        "medicamentos": [
+            "Dicloralfenazona",
+            "Fenitoína"
+        ],
+        "risco": 6,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Tiago Pereira",
+        "numero": 125114019,
+        "medicamentos": [
+            "Anti-histamínicos",
+            "Anticoagulantes Orais",
+            "Esteróides Anabólicos"
+        ],
+        "risco": 6,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Tiago Azevedo",
+        "numero": 741530750,
+        "medicamentos": [
+            "Anfetaminas",
+            "Dicloralfenazona"
+        ],
+        "risco": 2,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Ana Andrade",
+        "numero": 675107950,
+        "medicamentos": [
+            "Meprobamato",
+            "Guanetidina",
+            "Simpaticomiméticos (A. Directa)"
+        ],
+        "risco": 10,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Ana Amorim",
+        "numero": 622048213,
+        "medicamentos": [
+            "Metildopa",
+            "Contraceptivos Orais",
+            "Hidrato de Cloral",
+            "Piridoxina"
+        ],
+        "risco": 22,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Ana Correia",
+        "numero": 187565279,
+        "medicamentos": [
+            "Ácido Acetilsalicílico",
+            "Meprobamato",
+            "Cefaloridina (Ceporan)"
+        ],
+        "risco": 12,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Ana Moniz",
+        "numero": 326025686,
+        "medicamentos": [
+            "Naproxeno",
+            "Clonidina",
+            "Fenotiazinas (Clorpromazina)"
+        ],
+        "risco": 8,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Ana Cardoso",
+        "numero": 751268469,
+        "medicamentos": [
+            "Sulfimpirazona",
+            "Tiramina (Alimentos, Etc.)",
+            "Piridoxina"
+        ],
+        "risco": 4,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Ana Pacheco",
+        "numero": 873359972,
+        "medicamentos": [
+            "Benzodiazepinas (Diazepam)",
+            "Corticosteróides",
+            "Indometacina",
+            "Tetraciclinas"
+        ],
+        "risco": 18,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Ana Medeiros",
+        "numero": 532982889,
+        "medicamentos": [
+            "Bloqueantes Neuromusculares",
+            "Tiroxina"
+        ],
+        "risco": 0,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Ana Silva",
+        "numero": 782550529,
+        "medicamentos": [
+            "Sulfonamidas",
+            "Sulfonilinas (Clorpropamida)",
+            "Fenfluramina",
+            "Colestiramina"
+        ],
+        "risco": 22,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Ana Pereira",
+        "numero": 557648137,
+        "medicamentos": [
+            "Cloranfenicol",
+            "Antiácidos"
+        ],
+        "risco": 1,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Ana Azevedo",
+        "numero": 845437742,
+        "medicamentos": [
+            "Piridoxina",
+            "Meprobamato",
+            "Anticoagulantes Orais",
+            "Tiroxina"
+        ],
+        "risco": 25,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Maria Andrade",
+        "numero": 632380881,
+        "medicamentos": [
+            "Isoniazida",
+            "Glutetimida",
+            "Metronidazol",
+            "Corticosteróides"
+        ],
+        "risco": 17,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Maria Amorim",
+        "numero": 182291213,
+        "medicamentos": [
+            "Anticolinérgicos",
+            "Griseofulvina",
+            "Álcool (bebida)",
+            "Antibióticos (Largo Espectro)"
+        ],
+        "risco": 18,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Maria Correia",
+        "numero": 435355000,
+        "medicamentos": [
+            "Simpaticomiméticos (A. Directa)",
+            "Dicloralfenazona",
+            "Metotrexato",
+            "Haloperidol"
+        ],
+        "risco": 26,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Maria Moniz",
+        "numero": 965086819,
+        "medicamentos": [
+            "Fenilbutazona",
+            "Anfetaminas"
+        ],
+        "risco": 4,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Maria Cardoso",
+        "numero": 609527237,
+        "medicamentos": [
+            "Álcool (bebida)",
+            "Cefaloridina (Ceporan)",
+            "Isoniazida"
+        ],
+        "risco": 13,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Maria Pacheco",
+        "numero": 240082937,
+        "medicamentos": [
+            "Benzodiazepinas (Diazepam)",
+            "Anticoagulantes Orais",
+            "Tiramina (Alimentos, Etc.)",
+            "Ácido Mefenâmico"
+        ],
+        "risco": 10,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Maria Medeiros",
+        "numero": 518377761,
+        "medicamentos": [
+            "Isoniazida",
+            "Barbitúricos",
+            "Sulfonamidas"
+        ],
+        "risco": 8,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Maria Silva",
+        "numero": 861254438,
+        "medicamentos": [
+            "Anti-histamínicos",
+            "Corticosteróides",
+            "Rifampicina",
+            "Clonidina"
+        ],
+        "risco": 21,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Maria Pereira",
+        "numero": 519221147,
+        "medicamentos": [
+            "Cefaloridina (Ceporan)",
+            "Cloranfenicol",
+            "Tetraciclinas"
+        ],
+        "risco": 10,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Maria Azevedo",
+        "numero": 871732418,
+        "medicamentos": [
+            "Cloranfenicol",
+            "Corticosteróides"
+        ],
+        "risco": 4,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Francisca Andrade",
+        "numero": 610047331,
+        "medicamentos": [
+            "Hidrato de Cloral",
+            "Benzodiazepinas (Diazepam)"
+        ],
+        "risco": 6,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Francisca Amorim",
+        "numero": 902688819,
+        "medicamentos": [
+            "Cloranfenicol",
+            "Metotrexato"
+        ],
+        "risco": 4,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Francisca Correia",
+        "numero": 668725749,
+        "medicamentos": [
+            "Isoniazida",
+            "Sulfimpirazona",
+            "Dicloralfenazona"
+        ],
+        "risco": 7,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Francisca Moniz",
+        "numero": 131289223,
+        "medicamentos": [
+            "Clonidina",
+            "Tetraciclinas",
+            "Procainamida",
+            "Antiácidos"
+        ],
+        "risco": 11,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Francisca Cardoso",
+        "numero": 926808628,
+        "medicamentos": [
+            "Anti-histamínicos",
+            "Contraceptivos Orais"
+        ],
+        "risco": 1,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Francisca Pacheco",
+        "numero": 873072904,
+        "medicamentos": [
+            "Álcool (bebida)",
+            "Procainamida",
+            "Sulfimpirazona",
+            "iMAOs"
+        ],
+        "risco": 18,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Francisca Medeiros",
+        "numero": 716475294,
+        "medicamentos": [
+            "Piridoxina",
+            "Sulfonamidas",
+            "Metotrexato",
+            "Digoxina"
+        ],
+        "risco": 17,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Francisca Silva",
+        "numero": 430367897,
+        "medicamentos": [
+            "Indometacina",
+            "Insulinas",
+            "Guanetidina",
+            "Clonidina"
+        ],
+        "risco": 26,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Francisca Pereira",
+        "numero": 923386823,
+        "medicamentos": [
+            "Isoniazida",
+            "Antibióticos (Largo Espectro)",
+            "Ácido Mefenâmico",
+            "Meprobamato"
+        ],
+        "risco": 16,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Francisca Azevedo",
+        "numero": 114371801,
+        "medicamentos": [
+            "Rifampicina",
+            "Metronidazol"
+        ],
+        "risco": 2,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Eduarda Andrade",
+        "numero": 337365473,
+        "medicamentos": [
+            "Sulfonamidas",
+            "Tetraciclinas",
+            "Fenfluramina",
+            "Griseofulvina"
+        ],
+        "risco": 11,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Eduarda Amorim",
+        "numero": 982647085,
+        "medicamentos": [
+            "iMAOs",
+            "Antiácidos",
+            "Cefaloridina (Ceporan)"
+        ],
+        "risco": 11,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Eduarda Correia",
+        "numero": 778002771,
+        "medicamentos": [
+            "Fenilbutazona",
+            "Carbamazepina",
+            "Contraceptivos Orais"
+        ],
+        "risco": 6,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Eduarda Moniz",
+        "numero": 922676273,
+        "medicamentos": [
+            "Antidepressivos Tricíclicos",
+            "Barbitúricos"
+        ],
+        "risco": 5,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Eduarda Cardoso",
+        "numero": 374238022,
+        "medicamentos": [
+            "Anfetaminas",
+            "Ácido Mefenâmico",
+            "Álcool (bebida)",
+            "Hidrato de Cloral"
+        ],
+        "risco": 16,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Eduarda Pacheco",
+        "numero": 603530239,
+        "medicamentos": [
+            "iMAOs",
+            "Anti-histamínicos",
+            "Quinidina",
+            "Clonidina"
+        ],
+        "risco": 13,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Eduarda Medeiros",
+        "numero": 828964891,
+        "medicamentos": [
+            "Griseofulvina",
+            "Clofibrato",
+            "Anticolinérgicos"
+        ],
+        "risco": 10,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Eduarda Silva",
+        "numero": 812082010,
+        "medicamentos": [
+            "Sulfonamidas",
+            "Simpaticomiméticos (A. Indirecta)",
+            "Contraceptivos Orais"
+        ],
+        "risco": 15,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Eduarda Pereira",
+        "numero": 951921361,
+        "medicamentos": [
+            "Antiácidos",
+            "Anti-histamínicos",
+            "Tiramina (Alimentos, Etc.)",
+            "Barbitúricos"
+        ],
+        "risco": 28,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Eduarda Azevedo",
+        "numero": 888858875,
+        "medicamentos": [
+            "Antiácidos",
+            "Ácido Mefenâmico",
+            "Dicloralfenazona"
+        ],
+        "risco": 11,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Lucia Andrade",
+        "numero": 433274628,
+        "medicamentos": [
+            "Bloqueadores adrenérgicos beta",
+            "Analgésicos Narcóticos"
+        ],
+        "risco": 4,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Lucia Amorim",
+        "numero": 341208557,
+        "medicamentos": [
+            "Biguanidas (Fenformina)",
+            "Barbitúricos"
+        ],
+        "risco": 4,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Lucia Correia",
+        "numero": 464086444,
+        "medicamentos": [
+            "Antibióticos (Largo Espectro)",
+            "Naproxeno",
+            "Metotrexato"
+        ],
+        "risco": 8,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Lucia Moniz",
+        "numero": 485729320,
+        "medicamentos": [
+            "Ácido Ectacrínico",
+            "Bloqueantes Neuromusculares",
+            "Carbamazepina"
+        ],
+        "risco": 13,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Lucia Cardoso",
+        "numero": 919483140,
+        "medicamentos": [
+            "Guanetidina",
+            "Glutetimida",
+            "iMAOs"
+        ],
+        "risco": 10,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Lucia Pacheco",
+        "numero": 496904242,
+        "medicamentos": [
+            "Indometacina",
+            "Meprobamato",
+            "Cefaloridina (Ceporan)"
+        ],
+        "risco": 12,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Lucia Medeiros",
+        "numero": 462097335,
+        "medicamentos": [
+            "Naproxeno",
+            "Carbamazepina",
+            "Ácido Ectacrínico"
+        ],
+        "risco": 9,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Lucia Silva",
+        "numero": 711066656,
+        "medicamentos": [
+            "Metildopa",
+            "Indometacina",
+            "Anticolinérgicos"
+        ],
+        "risco": 10,
+        "Nota": "Interação medicamentosa segura."
+    },
+    {
+        "utente": "Lucia Pereira",
+        "numero": 269032776,
+        "medicamentos": [
+            "Tetraciclinas",
+            "Esteróides Anabólicos",
+            "Hidrato de Cloral",
+            "Dicloralfenazona"
+        ],
+        "risco": 25,
+        "Nota": "Interação medicamentosa não segura."
+    },
+    {
+        "utente": "Lucia Azevedo",
+        "numero": 974211289,
+        "medicamentos": [
+            "Simpaticomiméticos (A. Directa)",
+            "Antiácidos"
+        ],
+        "risco": 2,
+        "Nota": "Interação medicamentosa segura."
+    }
+]
