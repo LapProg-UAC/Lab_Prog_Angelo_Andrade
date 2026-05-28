@@ -4,11 +4,12 @@ import sys
 from openpyxl import Workbook, load_workbook
 
 from pathlib import Path
+import funcoesOP as fop
 
-# Caminho base = pasta raiz do projeto
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-# Pasta onde tens os ficheiros .txt
+
 DATA_DIR = BASE_DIR / "data"
 
 ficheiro_nomes = DATA_DIR / "nomesP.txt"
@@ -24,10 +25,10 @@ def lertxt(filename: str) -> list[str]:
     """
     Lê um ficheiro de texto e devolve uma lista de linhas.
 
-    Args:
+    Param:
         filename (str): Nome do ficheiro a ler.
 
-    Returns:
+    Retorna:
         list[str]: Lista de linhas do ficheiro. Lista vazia em caso de erro.
     """
     try:
@@ -55,7 +56,7 @@ def gerar_excel(meds: list[str]) -> None:
     """
     Gera um ficheiro Excel com a matriz de interações medicamentosas.
 
-    Args:
+    Param:
         meds (list[str]): Lista de medicamentos.
     """
     if not meds:
@@ -89,12 +90,12 @@ def valor_interacao_excel(ws, med1: str, med2: str) -> int:
     """
     Obtém o valor de interação entre dois medicamentos a partir da matriz Excel.
 
-    Args:
+    Param:
         ws: Worksheet carregada.
         med1 (str): Medicamento da linha.
         med2 (str): Medicamento da coluna.
 
-    Returns:
+    Retorna:
         int: Valor da interação.
     """
     col = None
@@ -122,11 +123,11 @@ def calcular_balanco_excel(meds_presc: list[str], ficheiro: Path = EXCEL_FILE) -
     """
     Calcula o risco total de interação entre medicamentos de uma prescrição.
 
-    Args:
+    Param:
         meds_presc (list[str]): Lista de medicamentos prescritos.
         ficheiro (str): Nome do ficheiro Excel com a matriz.
 
-    Returns:
+    Retorna:
         tuple: (risco_total, lista_de_detalhes)
     """
     wb = load_workbook(ficheiro)
@@ -151,12 +152,12 @@ def prescricao(nomes: list[str], apelidos: list[str], meds: list[str]) -> list[d
     """
     Gera prescrições médicas aleatórias para combinações de nomes e apelidos.
 
-    Args:
+    Param:
         nomes (list[str]): Lista de nomes.
         apelidos (list[str]): Lista de apelidos.
         meds (list[str]): Lista de medicamentos disponíveis.
 
-    Returns:
+    Retorna:
         list[dict]: Lista de prescrições geradas.
     """
     prescricoes = []
@@ -192,7 +193,7 @@ def guardar_json(prescricoes: list[dict], ficheiro: Path = PRESCRICOES_FILE) -> 
     """
     Guarda as prescrições num ficheiro JSON.
 
-    Args:
+    Param:
         prescricoes (list[dict]): Lista de prescrições.
         ficheiro (str): Nome do ficheiro JSON a criar.
     """
@@ -208,6 +209,8 @@ def main() -> None:
     """
     Função principal do programa.
     """
+
+
     nomes = lertxt(ficheiro_nomes)
     apelidos = lertxt(ficheiro_apelidos)
     meds = lertxt(ficheiro_meds)
@@ -217,10 +220,26 @@ def main() -> None:
         sys.exit(1)
 
     gerar_excel(meds)
-    prescricao(nomes, apelidos, meds)
+    prescricoes = prescricao(nomes, apelidos, meds)
 
     print("Prescrições criadas com sucesso!")
 
+'''
+    print("teste 1 - utente p nr")
+    utente = fop.procurar_utente(prescricoes, fop.por_numero(prescricoes[0]["numero"]))
+    print(utente)
 
+    print("teste 2 - utente entre 50000000 e 80000000")
+    utentes_int = fop.filtrar_utentes(prescricoes, fop.id_entre(500000000, 600000000))
+    print(utentes_int)
+
+    print("teste 3 - receitas de utente")
+    receitas_utente = fop.filtrar_receitas(prescricoes, fop.receitas_por_numero(prescricoes[0]["numero"]))
+    print(receitas_utente)
+
+    print("teste 4 - receitas de utentes entre 50000000 e 80000000")
+    receitas_int = fop.filtrar_receitas(prescricoes, fop.id_entre(500000000, 600000000))
+    print(receitas_int)
+'''
 
 main()
