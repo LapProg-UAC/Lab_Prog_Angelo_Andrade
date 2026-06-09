@@ -1,0 +1,12 @@
+Ana,Maria,Joao
+Maria,Carla,Antonio
+Joao,Teresa,Manuel
+Carla,Helena,Carlos
+Antonio,Lucia,Joaquim
+Teresa,Isabel,Fernando
+Manuel,Sofia,Alberto
+Helena,Beatriz,Ricardo
+Carlos,Patricia,Domingos
+Lucia,Amelia,Raul
+Isabel,Clara,Henrique
+Fernando,Rosa,Augusto

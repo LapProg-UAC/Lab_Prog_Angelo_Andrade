@@ -1,0 +1,8 @@
+Ficheiro: txt_hash.txt
+Hash (MD5): 025f4be804e001085e6e4d3488f210fa
+Assinatura (MD5): a107e7a97dbaa83bca2dcaea19a49775
+
+Ficheiro: txt_hash.txt
+Hash (Folding): [72, 178, 166, 119, 178, 90, 14, 54]
+Assinatura (Folding): [82, 198, 196, 159, 228, 150, 84, 134]
+

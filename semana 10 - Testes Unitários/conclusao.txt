@@ -1,0 +1,5 @@
+A implementação da função foi testada através de unittest, pytest e doctest.
+
+Todos os testes executados passaram com sucesso, incluindo casos normais, limites e casos de erro.
+
+Conclui-se que a função está corretamente implementada de acordo com os requisitos definidos.
